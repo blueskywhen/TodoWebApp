@@ -1,0 +1,4 @@
+read
+go to school
+play
+go out
